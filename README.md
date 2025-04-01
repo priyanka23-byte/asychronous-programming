@@ -1,34 +1,35 @@
-Asynchronous Programming Exercises
+ASYNCHRONOUS PROGRAMMING
 This repository contains a series of JavaScript exercises focused on different asynchronous programming techniques, such as callbacks, promises, and async/await. These exercises also integrate API calls to display data dynamically.
 
-Objective
+OBJECTIVE
 The exercises aim to enhance the understanding and implementation of asynchronous programming in JavaScript, with practical exercises involving API calls, error handling, and user interaction. The tasks are divided into three parts:
 
-Callbacks
+=> Callbacks
 
-Promises
+=> Promises
 
-Async/Await
+=> Async/Await
 
-Project Structure
+PROJECT STURCTURE
+
 The project includes the following files:
 
-callbacks.html: HTML structure for the Callback implementation.
+=>callbacks.html: HTML structure for the Callback implementation.
 
-callbacks.js: JavaScript file containing logic for callback-based asynchronous operations.
+=>callbacks.js: JavaScript file containing logic for callback-based asynchronous operations.
 
-promises.html: HTML structure for the Promise implementation.
+=>promises.html: HTML structure for the Promise implementation.
 
-promises.js: JavaScript file containing logic for promise-based asynchronous operations.
+=>promises.js: JavaScript file containing logic for promise-based asynchronous operations.
 
-async-await.html: HTML structure for the Async/Await implementation.
+=>async-await.html: HTML structure for the Async/Await implementation.
 
-async-await.js: JavaScript file containing logic for async/await-based asynchronous operations.
+=>async-await.js: JavaScript file containing logic for async/await-based asynchronous operations.
 
-Each part of the project demonstrates different techniques of handling asynchronous operations and data fetching using the JSONPlaceholder API.
+=>Each part of the project demonstrates different techniques of handling asynchronous operations and data fetching using the JSONPlaceholder API.
 
-Getting Started
-Prerequisites
+=>Getting Started
+PREREQUISITES
 To run this project locally, you will need:
 
 A web browser (Chrome, Firefox, etc.)
@@ -46,7 +47,8 @@ Copy
 cd asynchronous-programming-exercises
 Open the callbacks.html, promises.html, and async-await.html files in your browser to see the functionality in action.
 
-How the Exercises Work
+HOW THE EXCERCISE WORKS
+
 Part 1: Callbacks
 Task 1: Basic HTML and CSS structure.
 
@@ -68,7 +70,8 @@ Task 2: Uses async/await to fetch data from the JSONPlaceholder API. Displays a 
 
 Task 3: Implements error handling using try/catch to manage errors like network issues or timeouts.
 
-Features
+FEATURES
+
 Asynchronous behavior simulated using callbacks, promises, and async/await.
 
 Fetches and displays post data dynamically from the JSONPlaceholder API.
